@@ -17,6 +17,7 @@ A simple interactive paint application built using Python and OpenCV.
 |------|--------
 | G | Green Brush |
 | R | Red Brush |
+| E | Eraser |
 | B | Blue Brush |
 | + | Increase Brush Size |
 | - | Decrease Brush Size |
