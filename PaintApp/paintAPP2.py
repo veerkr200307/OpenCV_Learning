@@ -35,6 +35,9 @@ while True:
     if key == ord('x'):
         break
 
+    elif key== ord('e') :
+        BrushCOL=(0,0,0)
+
     elif key == ord('b'):
         BrushCOL = (255, 0, 0)
 
